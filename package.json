@@ -11,7 +11,8 @@
   "description": "",
   "dependencies": {
     "apiai": "^4.0.3",
-    "express": "^2.5.11",
-    "socket.io": "^1.5.1"
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0",
+    "uuid": "^10.0.0"
   }
 }
